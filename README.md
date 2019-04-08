@@ -8,7 +8,7 @@
 npm i -g toc-md-cli
 ```
 
-#使用
+# 使用
 
 ```bash
 toc-md-cli TEST-README.md
