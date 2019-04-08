@@ -1,0 +1,23 @@
+{
+  "name": "toc-md-cli",
+  "version": "1.0.0",
+  "description": "markdown文件生成TOC目录命令行工具",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "toc-md-cli": "./index.js"
+  },
+  "keywords": [
+    "toc",
+    "md",
+    "markdown",
+    "cli"
+  ],
+  "author": "wangzilong8",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^2.20.0"
+  }
+}
