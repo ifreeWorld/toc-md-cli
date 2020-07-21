@@ -5,7 +5,7 @@
 # 安装
 
 ```bash
-npm i -g toc-md-cli
+npm i -g @ifreeworld/toc-md-cli
 ```
 
 # 使用

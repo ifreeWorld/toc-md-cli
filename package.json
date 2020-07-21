@@ -1,5 +1,5 @@
 {
-  "name": "toc-md-cli",
+  "name": "@ifreeworld/toc-md-cli",
   "version": "1.0.0",
   "description": "markdown文件生成TOC目录命令行工具",
   "main": "index.js",
